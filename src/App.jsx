@@ -1,6 +1,6 @@
 import { useState, useEffect, useRef } from 'react'
 
-const API = 'http://localhost:8000'
+const API = 'https://web-production-6c2cd.up.railway.app'
 const REFRESH_INTERVAL = 5000 // 5 seconds
 
 // ── Provider colours ───────────────────────────────────────────────────────
